@@ -1,6 +1,6 @@
 # 🛒 Dashboard de Compras com Streamlit
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/tb_dinamica.png)
 
 Dashboard interativo desenvolvido com **Python, Pandas e Streamlit** para análise de compras, produtos, vendedores e faturamento em tempo real.
 
